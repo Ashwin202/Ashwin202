@@ -1,4 +1,4 @@
-# Ashwin M - Software Engineer 👨‍💻
+<img alt="Ashwin M - Software Engineer" src="./media/images/banner.jpg" style="width: 100%;" />
 
 Hello! I'm Ashwin, a dedicated Software Engineer passionate about backend development and driving innovation through robust features. Here's a glimpse into my journey:
 
@@ -8,6 +8,9 @@ Hello! I'm Ashwin, a dedicated Software Engineer passionate about backend develo
 ## 💼 Professional Journey:
 - **Software Engineer** at [Codeofduty Innovations](https://www.codeofduty.in/):
   - Developed robust features for Ryng, a cutting-edge product.
+- **Freelance Technical Advisor**
+  - Developed and maintained web applications using React and Node.js.
+  - Collaborated with cross-functional teams to implement new features.
 - **Artificial Intelligence Intern** at [Accubits](https://accubits.com/):
   - Pioneered AI-driven solutions with potential industry revolutionizing impact.
 
