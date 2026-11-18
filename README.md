@@ -17,7 +17,7 @@ My work primarily revolves around SIP-based communication systems, telephony inf
 - Troubleshooting production issues and improving system reliability and performance.
 - Exploring high-availability architectures, scalability, and distributed communication systems.
 
-**Software Engineer | [Codeofduty Innovations](https://www.codeofduty.in/)**
+**Software Engineer | [Codeofduty Innovations](https://ryng.in/)**
 
 - Developed and maintained backend services and product features for Ryng.
 - Built real-time communication and engagement solutions using Node.js and related technologies.
