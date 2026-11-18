@@ -1,29 +1,79 @@
 <img alt="Ashwin M - Software Engineer" src="./media/images/banner.jpg" style="width: 100%;" />
 
-Hello! I'm Ashwin, a dedicated Software Engineer passionate about backend development and driving innovation through robust features. Here's a glimpse into my journey:
+# Hello! I'm Ashwin 👋
 
-## 🎓 Education:
-- **Bachelor in Technology** in Electronics and Communication from [SCT](https://www.sctce.ac.in/): Laid the foundation for my tech career.
+I'm a Software Engineer specializing in **Backend Engineering and VoIP/Telecommunications systems**, with a strong interest in building scalable, reliable, and high-performance distributed systems.
 
-## 💼 Professional Journey:
-- **Software Engineer** at [Codeofduty Innovations](https://www.codeofduty.in/):
-  - Developed robust features for Ryng, a cutting-edge product.
-- **Freelance Technical Advisor**
-  - Developed and maintained web applications using React and Node.js.
-  - Collaborated with cross-functional teams to implement new features.
-- **Artificial Intelligence Intern** at [Accubits](https://accubits.com/):
-  - Pioneered AI-driven solutions with potential industry revolutionizing impact.
+My work primarily revolves around SIP-based communication systems, telephony infrastructure, and backend services. I enjoy understanding systems at a deeper level — from protocol-level communication and server architecture to application-level engineering.
 
-## 🌱 Passion & Skills:
-- Thrive on challenges, always eager to upskill.
-- Passionate about creating innovative solutions.
-- Excited to collaborate on projects pushing technology boundaries.
+## 💼 Professional Experience
 
-## 📂 Portfolio:
-- Explore my projects and more at [Bento](https://bento.me/ashwinmanoj).
+**Software Engineer | [CareStack](https://carestack.com/)**  
+*December 2024 – Present*
 
-## 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/ashwinm-045/)
-- [Medium](https://medium.com/@ashes192000)
+- Working on telecommunications infrastructure and SIP-based communication systems.
+- Building and maintaining solutions using **Kamailio, Asterisk, and FreeSWITCH**.
+- Working on SIP signaling, call routing, registration, subscriptions, and device provisioning.
+- Troubleshooting production issues and improving system reliability and performance.
+- Exploring high-availability architectures, scalability, and distributed communication systems.
 
-Let's embark on a journey of learning and innovation together! 🚀
+**Software Engineer | [Codeofduty Innovations](https://www.codeofduty.in/)**
+
+- Developed and maintained backend services and product features for Ryng.
+- Built real-time communication and engagement solutions using Node.js and related technologies.
+- Worked on integrations, APIs, and scalable application architectures.
+
+**Artificial Intelligence Intern | [Accubits](https://accubits.com/)**
+
+- Explored and developed AI-driven solutions.
+- Worked on applying emerging AI technologies to practical use cases.
+
+**Freelance Software Developer & Technical Advisor**
+
+- Developed and maintained web applications using React.js and Node.js.
+- Collaborated with teams to design, develop, and deliver software solutions.
+
+## 🛠️ Technical Expertise
+
+**Telecommunications & VoIP**
+- SIP | Kamailio | Asterisk | FreeSWITCH
+- SIP Signaling & Routing
+- RTP / RTCP | WebRTC
+- Device Provisioning
+- VoIP Infrastructure & Troubleshooting
+
+**Backend Engineering**
+- Node.js | JavaScript | TypeScript
+- Python | FastAPI
+- Golang
+- REST APIs | Microservices
+- MySQL | Redis
+
+**Infrastructure & Tools**
+- Linux | Docker | AWS
+- Git | GitHub
+- Grafana | Homer
+- CI/CD | Production Troubleshooting
+
+## 🌱 Areas of Interest
+
+- Scalable Backend Architectures
+- Distributed Systems & High Availability
+- Telecommunications & Real-Time Communication
+- System Design & Performance Optimization
+- Generative AI, LLMs & RAG
+
+## 🎓 Education
+
+**Bachelor of Technology – Electronics and Communication Engineering**  
+[Sree Chitra Thirunal College of Engineering (SCT)](https://www.sctce.ac.in/)
+
+## 📂 Find Me Around the Web
+
+- **Portfolio:** [Bento](https://bento.me/ashwinmanoj)
+- **LinkedIn:** [ashwinm-045](https://www.linkedin.com/in/ashwinm-045/)
+- **Medium:** [@ashes192000](https://medium.com/@ashes192000)
+
+---
+
+*Always curious, always learning, and always interested in understanding how things work under the hood.* 🚀
